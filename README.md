@@ -1,2 +1,2 @@
 # Django-Project
-Started working with Djanga
+Started working with Django
